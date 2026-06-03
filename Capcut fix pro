@@ -4,11 +4,11 @@
     "packageName": "com.lemon.lvoverseas",
     "versionCode": 17100600,
     "updateUrl": "https://t.me/fotball_kora",
-    "title": "🔔 تحديث جديد متوفر 17.2.0",
+    "title": "🔔 تحديث جديد متوفر 18.0.0",
     "description": "تم إصدار تحديث جديد للتطبيق يتضمن:.\n1.تحسين الأداء وزيادة السرعة ⚡\n2.إصلاح الأخطاء والمشاكل السابقة 🛠️\n4.إضافة ميزات وأدوات جديدة 🎬\n5.🔄 نرجو تحديث التطبيق الآن\n6.https://t.me/fotball_kora\n7.عالم المصممين",
-    "isForce": false,
-    "isExpired": false,
-    "expiryDate": "2029-09-01",
+    "isForce": true,
+    "isExpired": true,
+    "expiryDate": "2020-09-01",
     "closeButtonText": "Exit",
     "updateButtonText": "🆕تحديث جديد🆕"
   }
